@@ -1,5 +1,7 @@
 ## Atletas do Brasil: Sua fonte de inspiração! 
 
+#Feito na imersão DEV da Alura em parceria com o Gemini!
+
 **Descubra os maiores atletas brasileiros!** 🇧🇷
 
 Com essa aplicação, você pode pesquisar por seu atleta favorito e encontrar informações como:
